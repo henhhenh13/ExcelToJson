@@ -7,4 +7,4 @@
 https://docs.google.com/spreadsheets/d/1eQdDGBmTVQ8EoqnVua3GsY4Vg99qeqG6ZCQhqg_jPj0/edit#gid=0
 
 ## Run 
-`npm run index.js`
+`node index.js`
